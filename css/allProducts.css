@@ -14,7 +14,7 @@
     margin-top: 50px;
     width: 85vw;
     height: 50vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/feminine_fragrances.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/all_products.jpg);
     background-size: cover;
     font-family: "Aara-Bold";
     color: #fff ;
@@ -98,10 +98,10 @@ a:link {
 
  .pagination-sm .page-item:last-child .page-link {
     color: #E0A233;
-    border: none !important;
+    border: none !important;  
 }
 
- .first-link {
+.first-link {
     color: #E0A233 !important;
     border: none !important;
 }
