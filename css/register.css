@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Aara; src:  url("Aara-Bold.otf"); src: url("Aara-Regular.otf")
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Filter {
+    font-family: "Aara-Regular";
+}
+
+.text-navi {
+    background-color: #000;
+    color: #fff;
+}
+
+.mainT {
+    font-family:  "Aara-Bold";
+    font-weight: bold;
+}
