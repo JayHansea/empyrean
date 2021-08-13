@@ -7,10 +7,53 @@
 /* ===== Navbar ===== */
 
 .btn-style {
-    border: 1px solid #1B2134;
+    border: 1px solid #000;
 }
 
 .btn-style:hover {
-    background-color: #1B2134;
+    background-color: #000;
     color: #fff;
+}
+
+/* ===== footer ===== */
+.footer {
+    background-color: #000;
+    color: #fff;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+.footer .h4 {
+    color: #E0A233;
+    text-decoration: none;
+}
+
+.footer .p {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-row {
+    align-items:baseline;
+}
+
+.column {
+    margin: 0 1vw;
+}
+
+/* input[class="mt-2"] {
+    padding: 5px 2px;
+}
+
+input[class="mt-2"]: {
+    padding: 5px 2px;
+} */
+
+button[class="mt-4"] {
+    width: 100%;
+    background-color: #E0A233;
+    color: #fff;
+    border: 1px solid #E0A233;
+    padding: 5px 0;
 }
